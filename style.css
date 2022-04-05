@@ -1,0 +1,44 @@
+.ol1 {
+
+}
+#img {
+    position: absolute;
+    left: 1390px;
+    top: 150px;
+    width: 500px;
+    height: 500px;
+}
+#img2 {
+    position: absolute;
+    left: ;
+    top: 150px;
+    width: 500px;
+    height: 500px;
+}
+.body {
+   background-color: darkcyan;
+
+}
+.button1 {
+    position: absolute;
+    top: 700px;
+    left: 440px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: black;
+
+}
+
+.button2 {
+   position: absolute;
+   top: 700px;
+   left: 1400px;
+   height: 50px;
+   border-radius: 30px;
+   background-color: deeppink;
+
+}
+.text1 {
+    color: currentColor;
+
+}
